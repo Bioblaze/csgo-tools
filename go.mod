@@ -1,4 +1,4 @@
-module github.com/Cludch/csgo-tools
+module github.com/Bioblaze/csgo-tools
 
 go 1.16
 
